@@ -1,7 +1,7 @@
 ﻿name: Build and deploy Python app to Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: $WEB_APP_NAME   # PowerShell variable substitution
+  AZURE_WEBAPP_NAME: wi21b057webApp   # PowerShell variable substitution
   PYTHON_VERSION: '3.11'
 
 on:
